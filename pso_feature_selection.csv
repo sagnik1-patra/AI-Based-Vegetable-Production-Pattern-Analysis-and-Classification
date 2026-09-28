@@ -1,0 +1,10 @@
+Feature,PSO_Value,Status
+Potato,1,Selected
+Tomato,1,Selected
+Brinjal,1,Selected
+Beans,1,Selected
+Cluster Beans,0,Rejected
+Onion,1,Selected
+Green chillies,1,Selected
+Total Leafy Vegetables,0,Rejected
+Total Guard Variety Vegetables,1,Selected

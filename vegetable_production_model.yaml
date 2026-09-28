@@ -1,0 +1,28 @@
+project: AI-Based Vegetable Production Pattern Analysis and Classification
+dataset: Production_of_Important_Vegetable_crops_In_Tonnes_2019_20.csv
+best_model: Gradient Boosting
+best_accuracy: 0.9555555555555556
+best_accuracy_percentage: 95.55555555555556
+records: 223
+features:
+- Potato
+- Tomato
+- Brinjal
+- Beans
+- Cluster Beans
+- Onion
+- Green chillies
+- Total Leafy Vegetables
+- Total Guard Variety Vegetables
+target: Production_Category
+classes:
+- High
+- Low
+- Medium
+model_results:
+  Random Forest: 0.8222222222222222
+  Extra Trees: 0.8444444444444444
+  Gradient Boosting: 0.9555555555555556
+  Decision Tree: 0.9111111111111111
+  KNN: 0.8888888888888888
+  Logistic Regression: 0.8666666666666667

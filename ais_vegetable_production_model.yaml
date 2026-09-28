@@ -1,0 +1,33 @@
+project: AI-Based Vegetable Production Pattern Analysis and Classification
+optimization: Artificial Immune System - Clonal Selection
+best_model: Extra Trees
+accuracy: 0.9777777777777777
+ais_affinity: 0.8572881355932203
+original_features:
+- Potato
+- Tomato
+- Brinjal
+- Beans
+- Cluster Beans
+- Onion
+- Green chillies
+- Total Leafy Vegetables
+- Total Guard Variety Vegetables
+selected_features:
+- Potato
+- Tomato
+- Brinjal
+- Beans
+- Onion
+- Green chillies
+- Total Guard Variety Vegetables
+classes:
+- High
+- Low
+- Medium
+ais_parameters:
+  population_size: 30
+  generations: 20
+  elite_size: 8
+  clones_per_elite: 5
+  mutation_rate: 0.2

@@ -1,0 +1,33 @@
+project: AI-Based Vegetable Production Pattern Analysis and Classification
+optimization: Binary Particle Swarm Optimization
+best_model: Extra Trees
+accuracy: 0.9777777777777777
+pso_best_fitness: 0.8572881355932203
+original_features:
+- Potato
+- Tomato
+- Brinjal
+- Beans
+- Cluster Beans
+- Onion
+- Green chillies
+- Total Leafy Vegetables
+- Total Guard Variety Vegetables
+selected_features:
+- Potato
+- Tomato
+- Brinjal
+- Beans
+- Onion
+- Green chillies
+- Total Guard Variety Vegetables
+classes:
+- High
+- Low
+- Medium
+pso_parameters:
+  particles: 30
+  iterations: 25
+  inertia_weight: 0.729
+  cognitive_coefficient: 1.49445
+  social_coefficient: 1.49445

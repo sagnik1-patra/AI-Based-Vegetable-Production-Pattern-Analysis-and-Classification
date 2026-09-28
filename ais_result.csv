@@ -1,0 +1,46 @@
+Taluk,Total_Production,Dominant_Vegetable,Actual_Category,AIS_Predicted_Category,Correct_Prediction
+Sirsi,50.0,Potato,Low,Low,Yes
+Kushtagi,48037.0,Onion,High,High,Yes
+Mandya,21396.0,Tomato,Medium,Medium,Yes
+Dharwad,125982.0,Onion,High,High,Yes
+Ajjampura,130108.0,Onion,High,High,Yes
+Manvi,22530.0,Onion,Medium,Medium,Yes
+Hulasuru,4415.0,Tomato,Low,Low,Yes
+Kagavada,5473.0,Onion,Low,Medium,No
+Mangalore,40.0,Total Leafy Vegetables,Low,Low,Yes
+T.Narasipura,12568.0,Tomato,Medium,Medium,Yes
+Nelamangala,18454.0,Tomato,Medium,Medium,Yes
+Belagavi,104018.0,Potato,High,High,Yes
+Talikote,4337.0,Onion,Low,Low,Yes
+Nippani,11015.0,Onion,Medium,Medium,Yes
+Annigeri,64990.0,Onion,High,High,Yes
+Tumkur,6021.0,Tomato,Medium,Medium,Yes
+Kudligi,45566.0,Onion,High,High,Yes
+Gauribidanur,60554.0,Tomato,High,High,Yes
+Anekal,37980.0,Tomato,High,High,Yes
+Raibag,12062.0,Tomato,Medium,Medium,Yes
+Lingasugur,28127.0,Onion,Medium,Medium,Yes
+Kalagi,0.0,Potato,Low,Low,Yes
+Bagepalli,47724.0,Tomato,High,High,Yes
+Navalgund,167547.0,Onion,High,High,Yes
+Bhatkal,51.0,Total Leafy Vegetables,Low,Low,Yes
+Yadrami,0.0,Potato,Low,Low,Yes
+Mudabidri,10.0,Total Leafy Vegetables,Low,Low,Yes
+Hiriyur,88836.0,Onion,High,High,Yes
+K.G.F,55589.0,Tomato,High,High,Yes
+Sindagi,27191.0,Onion,Medium,Medium,Yes
+Savanur,15509.0,Green chillies,Medium,Medium,Yes
+Chikkodi,21356.0,Tomato,Medium,Medium,Yes
+Gundlupet,128265.0,Tomato,High,High,Yes
+Hunsur,37308.0,Tomato,High,High,Yes
+Khanapur,54565.0,Green chillies,High,High,Yes
+Bynduru,501.0,Total Leafy Vegetables,Low,Low,Yes
+Saraguru,7531.0,Tomato,Medium,Medium,Yes
+Chittaguppa,7485.0,Total Guard Variety Vegetables,Medium,Medium,Yes
+Bhadravathi,23.0,Total Guard Variety Vegetables,Low,Low,Yes
+Kumta,2189.0,Onion,Low,Low,Yes
+Vadagera,6836.0,Green chillies,Medium,Medium,Yes
+Yadgir,5255.0,Onion,Low,Low,Yes
+Karkala,1068.0,Total Leafy Vegetables,Low,Low,Yes
+Gubbi,3416.0,Tomato,Low,Low,Yes
+Hirekerur,7437.0,Tomato,Medium,Medium,Yes

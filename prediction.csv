@@ -1,0 +1,224 @@
+Taluk,Total_Production,Dominant_Vegetable,Actual_Category,Predicted_Category,Prediction_Status
+Chikkodi,21356.0,Tomato,Medium,Medium,Correct
+Athani,12008.0,Onion,Medium,Medium,Correct
+Raibag,12062.0,Tomato,Medium,Medium,Correct
+Gokak,19459.0,Tomato,Medium,Medium,Correct
+Hukkeri,38760.0,Tomato,High,High,Correct
+Belagavi,104018.0,Potato,High,High,Correct
+Khanapur,54565.0,Green chillies,High,High,Correct
+Savadatti,120662.0,Onion,High,High,Correct
+Bailhongal,50252.0,Tomato,High,High,Correct
+Ramadurg,155349.0,Onion,High,High,Correct
+Kitthuru,27415.0,Green chillies,Medium,Medium,Correct
+Nippani,11015.0,Onion,Medium,Medium,Correct
+Kagavada,5473.0,Onion,Low,Low,Correct
+Mudalagi,19774.0,Onion,Medium,Medium,Correct
+Jamakhandi,905.0,Onion,Low,Low,Correct
+Bilagi,5162.0,Onion,Low,Low,Correct
+Mudhol,8036.0,Onion,Medium,Medium,Correct
+Badami,6151.0,Onion,Medium,Medium,Correct
+Bagalkote,8414.0,Onion,Medium,Medium,Correct
+Hungund,3208.0,Onion,Low,Low,Correct
+Guledagudda,918.0,Onion,Low,Low,Correct
+Ilkal,1269.0,Onion,Low,Low,Correct
+Rabakavi Banahatti,359.0,Onion,Low,Low,Correct
+Bijapur,20901.0,Onion,Medium,Medium,Correct
+Indi,20738.0,Onion,Medium,Medium,Correct
+Sindagi,27191.0,Onion,Medium,Medium,Correct
+Basavan Bagewadi,85264.0,Onion,High,High,Correct
+Muddebihal,19022.0,Onion,Medium,Medium,Correct
+Nidagundi,55934.0,Onion,High,High,Correct
+Babaleshwara,57278.0,Onion,High,High,Correct
+Chadachana,7058.0,Onion,Medium,Medium,Correct
+Talikote,4337.0,Onion,Low,Low,Correct
+Tikota,12126.0,Onion,Medium,Medium,Correct
+Kolhara,171566.0,Onion,High,High,Correct
+Devara Hipparagi,7513.0,Onion,Medium,Medium,Correct
+Aland,42887.0,Onion,High,High,Correct
+Afzalpur,28436.0,Onion,Medium,Medium,Correct
+Gulbarga,33941.0,Onion,High,High,Correct
+Chincholi,16142.0,Onion,Medium,Medium,Correct
+Sedam,6163.0,Onion,Medium,Medium,Correct
+Chittapur,26059.0,Onion,Medium,Medium,Correct
+Jevargi,27383.0,Green chillies,Medium,Medium,Correct
+Kalagi,0.0,Potato,Low,Low,Correct
+Kamalapura,0.0,Potato,Low,Low,Correct
+Yadrami,0.0,Potato,Low,Low,Correct
+Shahbadha,0.0,Potato,Low,Low,Correct
+Basavakalyan,20057.0,Tomato,Medium,Medium,Correct
+Bhalki,19098.0,Tomato,Medium,Medium,Correct
+Aurad,4967.0,Onion,Low,Low,Correct
+Bidar,22821.0,Onion,Medium,Medium,Correct
+Humnabad,7485.0,Total Guard Variety Vegetables,Medium,Medium,Correct
+Chittaguppa,7485.0,Total Guard Variety Vegetables,Medium,Medium,Correct
+Kamalanagara,4967.0,Onion,Low,Low,Correct
+Hulasuru,4415.0,Tomato,Low,Low,Correct
+Lingasugur,28127.0,Onion,Medium,Medium,Correct
+Devdurga,51744.0,Onion,High,High,Correct
+Raichur,16181.0,Onion,Medium,Medium,Correct
+Manvi,22530.0,Onion,Medium,Medium,Correct
+Sindhanur,8091.0,Onion,Medium,Medium,Correct
+Maski,13154.0,Onion,Medium,Medium,Correct
+Sirivara,9655.0,Onion,Medium,Medium,Correct
+Yelburga,365182.0,Onion,High,High,Correct
+Kushtagi,48037.0,Onion,High,High,Correct
+Gangavathi,57113.0,Tomato,High,High,Correct
+Koppal,78066.0,Tomato,High,High,Correct
+Kanakagiri,0.0,Potato,Low,Low,Correct
+Naragund,179.0,Tomato,Low,Low,Correct
+Rona,282370.0,Onion,High,High,Correct
+Gadag,151742.0,Onion,High,High,Correct
+Shirahatti,21579.0,Onion,Medium,Medium,Correct
+Mundargi,53538.0,Onion,High,High,Correct
+Gajendragad,24998.0,Onion,Medium,Medium,Correct
+Laxmeshwar,13890.0,Onion,Medium,Medium,Correct
+Dharwad,125982.0,Onion,High,High,Correct
+Navalgund,167547.0,Onion,High,High,Correct
+Hubli,123861.0,Onion,High,High,Correct
+Kalgatgi,17692.0,Brinjal,Medium,Medium,Correct
+Kundgol,10835.0,Onion,Medium,Medium,Correct
+Hubballi Nagara,11542.0,Onion,Medium,Medium,Correct
+Alnavara,685.0,Beans,Low,Low,Correct
+Annigeri,64990.0,Onion,High,High,Correct
+Karwar,83.0,Total Guard Variety Vegetables,Low,Low,Correct
+Joida,0.0,Potato,Low,Low,Correct
+Haliyal,2376.0,Brinjal,Low,Low,Correct
+Yellapur,0.0,Potato,Low,Low,Correct
+Mundgod,699.0,Green chillies,Low,Low,Correct
+Sirsi,50.0,Potato,Low,Low,Correct
+Ankola,443.0,Total Leafy Vegetables,Low,Low,Correct
+Kumta,2189.0,Onion,Low,Low,Correct
+Siddapur,211.0,Green chillies,Low,Low,Correct
+Honnavar,93.0,Total Guard Variety Vegetables,Low,Low,Correct
+Bhatkal,51.0,Total Leafy Vegetables,Low,Low,Correct
+Dandelli,37.0,Brinjal,Low,Low,Correct
+Shiggaon,28625.0,Onion,Medium,Medium,Correct
+Savanur,15509.0,Green chillies,Medium,Medium,Correct
+Hangal,27417.0,Green chillies,Medium,Medium,Correct
+Haveri,47858.0,Green chillies,High,High,Correct
+Byadagi,12389.0,Tomato,Medium,Medium,Correct
+Hirekerur,7437.0,Tomato,Medium,Medium,Correct
+Ranebennur,88867.0,Onion,High,High,Correct
+Ratteehalli,5127.0,Tomato,Low,Low,Correct
+Hadagali,52447.0,Onion,High,High,Correct
+Hagaribommanahalli,71643.0,Onion,High,High,Correct
+Hospet,24310.0,Green chillies,Medium,Medium,Correct
+Siraguppa,4750.0,Green chillies,Low,Low,Correct
+Ballari,6663.0,Tomato,Medium,Medium,Correct
+Sonduru,49169.0,Onion,High,High,Correct
+Kudligi,45566.0,Onion,High,High,Correct
+Kurugodu,675.0,Onion,Low,Low,Correct
+Kotturu,36765.0,Onion,High,High,Correct
+Kampli,55707.0,Green chillies,High,High,Correct
+Harapanahalli,114715.0,Onion,High,High,Correct
+Molakalmuru,6475.0,Tomato,Medium,Medium,Correct
+Challakere,298242.0,Onion,High,High,Correct
+Chitradurga,194248.0,Onion,High,High,Correct
+Holalkere,50414.0,Onion,High,High,Correct
+Hosadurga,44401.0,Onion,High,High,Correct
+Hiriyur,88836.0,Onion,High,High,Correct
+Harihar,6741.0,Tomato,Medium,Medium,Correct
+Jagaluru,65415.0,Onion,High,High,Correct
+Davanagere,28403.0,Tomato,Medium,Medium,Correct
+Honnali,10572.0,Tomato,Medium,Medium,Correct
+Channagiri,5505.0,Onion,Low,Low,Correct
+Nyamati,52247.0,Tomato,High,High,Correct
+Sagara,148.0,Total Leafy Vegetables,Low,Low,Correct
+Soraba,532.0,Total Leafy Vegetables,Low,Low,Correct
+Shikaripura,4420.0,Tomato,Low,Low,Correct
+Hosanagar,100.0,Total Leafy Vegetables,Low,Low,Correct
+Thirthahalli,41.0,Total Leafy Vegetables,Low,Low,Correct
+Shimoga,1452.0,Tomato,Low,Low,Correct
+Bhadravathi,23.0,Total Guard Variety Vegetables,Low,Low,Correct
+Kundapur,1315.0,Total Leafy Vegetables,Low,Low,Correct
+Udupi,646.0,Total Leafy Vegetables,Low,Low,Correct
+Karkala,1068.0,Total Leafy Vegetables,Low,Low,Correct
+Bynduru,501.0,Total Leafy Vegetables,Low,Low,Correct
+Bramhavara,2087.0,Total Leafy Vegetables,Low,Low,Correct
+Kapu,656.0,Brinjal,Low,Low,Correct
+Hebri,354.0,Total Leafy Vegetables,Low,Low,Correct
+Narasimharajapura,7.0,Green chillies,Low,Low,Correct
+Tarikere,85982.0,Potato,High,High,Correct
+Kadur,94733.0,Onion,High,High,Correct
+Chikmagalur,57571.0,Tomato,High,High,Correct
+Mudigere,0.0,Potato,Low,Low,Correct
+Ajjampura,130108.0,Onion,High,High,Correct
+Chiknayakanahalli,5151.0,Green chillies,Low,Low,Correct
+Sira,32834.0,Onion,High,High,Correct
+Pavagada,239910.0,Tomato,High,High,Correct
+Madhugiri,7735.0,Tomato,Medium,Medium,Correct
+Koratagere,4573.0,Tomato,Low,Low,Correct
+Tumkur,6021.0,Tomato,Medium,Medium,Correct
+Gubbi,3416.0,Tomato,Low,Low,Correct
+Tiptur,3415.0,Tomato,Low,Low,Correct
+Turuvekere,1225.0,Tomato,Low,Low,Correct
+Kunigal,5761.0,Tomato,Medium,Medium,Correct
+Srinivaspura,193362.0,Tomato,High,High,Correct
+Kolar,135322.0,Tomato,High,High,Correct
+Malur,140117.0,Tomato,High,High,Correct
+Bangarpet,120688.0,Tomato,High,High,Correct
+Mulabagilu,179795.0,Tomato,High,High,Correct
+K.G.F,55589.0,Tomato,High,High,Correct
+Bangalore (North),13180.0,Tomato,Medium,Medium,Correct
+Bangalore-South,8100.0,Tomato,Medium,Medium,Correct
+Anekal,37980.0,Tomato,High,High,Correct
+Bangalore-East,1520.0,Tomato,Low,Low,Correct
+Yelahanka,14330.0,Tomato,Medium,Medium,Correct
+Nelamangala,18454.0,Tomato,Medium,Medium,Correct
+Doddaballapura,51573.0,Tomato,High,High,Correct
+Devanahalli,21827.0,Tomato,Medium,Medium,Correct
+Hoskote,30544.0,Tomato,High,High,Correct
+Krishnarajpet,18473.0,Tomato,Medium,Medium,Correct
+Nagamangala,17672.0,Tomato,Medium,Medium,Correct
+Pandavpura,44442.0,Tomato,High,High,Correct
+Srirangapatna,18028.0,Tomato,Medium,Medium,Correct
+Mandya,21396.0,Tomato,Medium,Medium,Correct
+Maddur,3400.0,Tomato,Low,Low,Correct
+Malavalli,24749.0,Tomato,Medium,Medium,Correct
+Sakleshpura,4500.0,Green chillies,Low,Low,Correct
+Belur,34076.0,Potato,High,High,Correct
+Arsikere,30642.0,Tomato,High,High,Correct
+Hassan,94099.0,Potato,High,High,Correct
+Alur,2238.0,Potato,Low,Low,Correct
+Arkalgud,24992.0,Potato,Medium,Medium,Correct
+Holenarasipura,73244.0,Total Guard Variety Vegetables,High,High,Correct
+Channarayapatna,14653.0,Potato,Medium,Medium,Correct
+Mangalore,40.0,Total Leafy Vegetables,Low,Low,Correct
+Bantwal,102.0,Total Leafy Vegetables,Low,Low,Correct
+Belthangady,47.0,Total Guard Variety Vegetables,Low,Low,Correct
+Puttur,18.0,Total Leafy Vegetables,Low,Low,Correct
+Sulya,39.0,Total Guard Variety Vegetables,Low,Low,Correct
+Mudabidri,10.0,Total Leafy Vegetables,Low,Low,Correct
+Kadaba,17.0,Total Guard Variety Vegetables,Low,Low,Correct
+Madikeri,24.0,Beans,Low,Low,Correct
+Somawarpet,518.0,Potato,Low,Low,Correct
+Virajpet,33.0,Potato,Low,Low,Correct
+Piriyapatna,12642.0,Green chillies,Medium,Medium,Correct
+Hunsur,37308.0,Tomato,High,High,Correct
+K.R.Nagar,22744.0,Tomato,Medium,Medium,Correct
+Mysuru,71050.0,Tomato,High,High,Correct
+Heggadadevanakote,28755.0,Tomato,High,High,Correct
+Nanjangud,67580.0,Tomato,High,High,Correct
+T.Narasipura,12568.0,Tomato,Medium,Medium,Correct
+Saraguru,7531.0,Tomato,Medium,Medium,Correct
+Gundlupet,128265.0,Tomato,High,High,Correct
+Chamarajanagara,79072.0,Tomato,High,High,Correct
+Yalandur,2652.0,Tomato,Low,Low,Correct
+Kollegala,30550.0,Onion,High,High,Correct
+Kollegala(Hanur),73211.0,Onion,High,High,Correct
+Gauribidanur,60554.0,Tomato,High,High,Correct
+Chikballapur,46098.0,Potato,High,High,Correct
+Gudibande,46201.0,Tomato,High,High,Correct
+Bagepalli,47724.0,Tomato,High,High,Correct
+Shidlagatta,32584.0,Tomato,High,High,Correct
+Chinthamani,189722.0,Tomato,High,High,Correct
+Magadi,6245.0,Tomato,Medium,Medium,Correct
+Ramanagar,2473.0,Tomato,Low,Low,Correct
+Channapatna,2777.0,Tomato,Low,Low,Correct
+Kanakpura,2218.0,Tomato,Low,Low,Correct
+Yadgir,5255.0,Onion,Low,Low,Correct
+Shahapur,10833.0,Green chillies,Medium,Medium,Correct
+Shorapur,16196.0,Onion,Medium,Medium,Correct
+Gurumithakala,3069.0,Onion,Low,Low,Correct
+Vadagera,6836.0,Green chillies,Medium,Medium,Correct
+Hunisigi,7351.0,Onion,Medium,Medium,Correct
